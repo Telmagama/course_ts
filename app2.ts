@@ -1,4 +1,4 @@
-import { Carro } from './Carro'
+import  Carro  from './Carro'
 import { Concessionaria } from './Concessionaria'
 import { Pessoa } from './Pessoa'
 

@@ -3,7 +3,7 @@ import Moto from './Moto'
 
 let carro = new Carro('veloster', 3);
 carro.acelerar()
-
+carro.acelerar()
 
 let moto = new Moto();
 moto.acelerar()

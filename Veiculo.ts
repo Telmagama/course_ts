@@ -1,7 +1,7 @@
 export default class Veiculo {
     //Atributos
     protected modelo!: String
-    private velocidade: number = 0
+    protected velocidade: number = 0
 
     //Metodos
     public acelerar(): void {
